@@ -144,7 +144,7 @@
 - 在  Insecure origins treated as secure（黃色底的那邊）填入
     - `http://<你的 Raspberry Pi 4 ip>:5000`
 - 把「已停用」改成「已啟用」，如下圖所示
-    - ![螢幕擷取畫面 2025-01-07 223630](https://hackmd.io/_uploads/H1Exa25Ike.png)
+ ![螢幕擷取畫面 2025-01-07 223630](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_7d8db958da3d16fcd6d2bc6ec9b00252.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1736395764&Signature=xWUwrxsu5e%2F9iUmy%2Bxyi4Mg0NTw%3D)
 
 </details>
 
